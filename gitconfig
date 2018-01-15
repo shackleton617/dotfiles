@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = miguelofboston@gmail.com
-	name = Miguel de Braganca
+	email = de Braganca
+	name = Miguel
